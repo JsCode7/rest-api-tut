@@ -24,7 +24,7 @@ server.listen(8080, () => {
 
 })
 
-const MONGO_URL = 'mongodb+srv://jsdevsanchez:2oDUUM7N8VO3L2kF@cluster0.muwk7rs.mongodb.net/'
+const MONGO_URL = '' //Aqui va la mongo URI
 
 mongoose.Promise =  Promise;
 mongoose.connect(MONGO_URL);
