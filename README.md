@@ -10,6 +10,8 @@ En este ejercicio creé un Registro y Inicio de sesión simple, en donde pude en
 
 Por otra parte utilicé postman para poder hacer las llamadas a los endpoint y poder realizar el registro, inicio de sesión, eliminación y actualización de usuario. 
 
+Por mi cuenta agregué otro schema en el proyecto para probar como funcionaría la autenticación y el routing para ese tipo de schema con mayor cantidad de parámetros, funcionando sin problema alguno.
+
 
 ## Tutorial by
 
